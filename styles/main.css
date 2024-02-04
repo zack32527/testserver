@@ -1,0 +1,37 @@
+p, li{
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif ;
+    background-color: aquamarine;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: blue;
+    text-shadow: 3px 3px 1px black;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
